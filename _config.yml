@@ -40,7 +40,7 @@ author: 橘子君
 #   "Copyright (c) 2017-{currentYear} <a href="https://example.com">{author}</a>"
 #   "Copyright © 2017-2021 Foobar"
 #
-copyright: "Unpublished Work (cleft) 2017-{currentYear} {author}"
+copyright: "橘子君 (cleft) 2023-{currentYear} {author}"
 
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -48,7 +48,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Google search results) and in your feed.xml site description.
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. https://example.com
+url: "https://orangeking.org.edu.kg/" # the base hostname & protocol for your site, e.g. https://example.com
 favicon: "" # the favicon for your site
 
 # Yat date format
@@ -60,7 +60,7 @@ yat:
 # debug: false
 
 # If you don't want transparent header, you can set false
-# header_transparent: true
+ header_transparent: true
 
 # If you want to change the content width, you can set to another value
 # content_width: "920px"
@@ -70,10 +70,10 @@ yat:
 # enableDNT: "false"
 
 # If you want to generate website sitemap, you can set true
-# sitemap: false
+ sitemap: true
 
 # If you want to change site language, you can set lang option
-# lang: "en"  # default lang is en
+ lang: "zh-CN"  # default lang is en
 
 # Translate languges
 # langs refer to https://cloud.google.com/translate/docs/languages
@@ -106,7 +106,7 @@ yat:
 # Default theme colors as below:
 # coolblack: #090a0b
 # spacegrey: #353535
-# snowwhite: #ffffff
+ snowwhite: #ffffff
 #
 # theme_color: snowwhite
 #
@@ -207,9 +207,9 @@ yat:
 
 # Click to top settings
 # click_to_top:
-#   light:
-#     background_color: "white"
-#     color: "#454545"
+   light:
+     background_color: "white"
+     color: "#454545"
 #   dark:
 #     background_color: "#34323d"
 #     color: "#bbb"
