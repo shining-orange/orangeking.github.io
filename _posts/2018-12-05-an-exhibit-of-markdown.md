@@ -6,7 +6,7 @@ categories: markdown
 tags: [example, markdown]
 ---
 
-This note demonstrates some of what [Markdown][1] is capable of doing.
+本文演示了[Markdown][1]的一些功能.
 
 ## An exhibit of Markdown
 
@@ -16,7 +16,7 @@ This note demonstrates some of what [Markdown][1] is capable of doing.
 
 ## Basic formatting
 
-Paragraphs can be written like so. A paragraph is the basic block of Markdown. A paragraph is what text will turn into when there is no reason it should become anything else.
+段落可以这样写。段落是Markdown的基本块。段落是指文本在没有理由变成其他形式的情况下会变成的形式。
 
 Paragraphs must be separated by a blank line. Basic formatting of *italics* and **bold** is supported. This *can be **nested** like* so.
 
